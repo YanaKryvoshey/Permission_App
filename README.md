@@ -7,6 +7,6 @@ And the password must be about the percentage of the battery.
 
 
 
-<img src = "app/src/main/res/drawable/permissiom_pic.jpg" width = "100">
-<img src = "app/src/main/res/drawable/win_pic.jpg" width = "100">
+<img src = "app/src/main/res/drawable/permissiom_pic.jpg" width = "150">
+<img src = "app/src/main/res/drawable/win_pic.jpg" width = "150">
 
